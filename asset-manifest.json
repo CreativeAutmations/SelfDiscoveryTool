@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SelfDiscoveryTool/static/css/main.1d565cd5.chunk.css",
+    "main.js": "/SelfDiscoveryTool/static/js/main.f24230db.chunk.js",
+    "main.js.map": "/SelfDiscoveryTool/static/js/main.f24230db.chunk.js.map",
+    "runtime-main.js": "/SelfDiscoveryTool/static/js/runtime-main.87d09f60.js",
+    "runtime-main.js.map": "/SelfDiscoveryTool/static/js/runtime-main.87d09f60.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/SelfDiscoveryTool/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d8276356.chunk.js": "/SelfDiscoveryTool/static/js/2.d8276356.chunk.js",
+    "static/js/2.d8276356.chunk.js.map": "/SelfDiscoveryTool/static/js/2.d8276356.chunk.js.map",
+    "index.html": "/SelfDiscoveryTool/index.html",
+    "precache-manifest.349cce3a850c2d8aa6c00ceb277d77f2.js": "/SelfDiscoveryTool/precache-manifest.349cce3a850c2d8aa6c00ceb277d77f2.js",
+    "service-worker.js": "/SelfDiscoveryTool/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/SelfDiscoveryTool/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1d565cd5.chunk.css.map": "/SelfDiscoveryTool/static/css/main.1d565cd5.chunk.css.map",
+    "static/js/2.d8276356.chunk.js.LICENSE.txt": "/SelfDiscoveryTool/static/js/2.d8276356.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87d09f60.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d8276356.chunk.js",
+    "static/css/main.1d565cd5.chunk.css",
+    "static/js/main.f24230db.chunk.js"
+  ]
+}
